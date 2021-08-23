@@ -43,7 +43,7 @@ Personalmente me interesa el tema de Privacidad y Seguridad, por lo que encontr�
 Si bien se menciona, se podría haber detallado más. Creo que se ahonda más pero en secciones no incluidas en la lectura.
 Se podrían haber mencionado más casos reales de los "shilling attacks"
 
-En la conclusión se resumen algunas limitantes que creo ya han tenido grandes avances (cabe tener en cuentra que el paper es del 2007) en especial con el uso de Computer Vision para recomendar cosas según el "estilo", lo cual no es captado por las reviews o la escala numerica de una reseña. Sería interesante leer un paper de estos mismos autores en la actualidad, para que respondan ciertas inquietudes planteadas. 
+En la conclusión se resumen algunas limitantes que creo ya han tenido grandes avances (cabe tener en cuenta que el paper es del 2007) en especial con el uso de Computer Vision para recomendar cosas según el "estilo", lo cual no es captado por las reviews o la escala numerica de una reseña. Sería interesante leer un paper de estos mismos autores en la actualidad, para que respondan ciertas inquietudes planteadas. 
 Incluso en el area de privacidad ya han habido casos importantes.
 
 
