@@ -33,7 +33,7 @@ Me gustó lo del "meta-recommendation system" pero encontré que lo explican muy
 
 Encontré interesante lo mencionado sobre las cualidades necesarias (o idoneas) para los RecSys (la parte de data distribution, underlying meaning, and data persistence), pero encontré que faltaban argumentos para fijar esos pilares. Hay aseveraciones muy tajantes sobre que si y que no, encuentro que faltan argumentos concretos (o quizás son obvias y es mi falta de dominio en el tema).
 
-"these skewed neighbors can dominate a user’s neighborhood" me gustó esa explicación pero siento que faltó más detalle (algún gráfico que evidencie esto) ya que es un detalle muy importante pero se dijo a la pasada.
+Se habla de algo muy importante en el tema de vecinos cercanos pero de forma muy superficial. "these skewed neighbors can dominate a user’s neighborhood" me gustó esa explicación pero siento que faltó más detalle (algún gráfico que evidencie esto) ya que es un detalle muy importante pero se dijo a la pasada.
 
 En la explicación de los desafíos en los Item-Based Algs, se menciona "In practice, we can substantially reduce this size by only storing correlations for item pairs with more than k coratings", pero, qué K se elige ? Cómo saber que hiperparametro elegir ? Me hubiese gustado más detalle.
 
@@ -47,5 +47,11 @@ En la conclusión se resumen algunas limitantes que creo ya han tenido grandes a
 Incluso en el area de privacidad ya han habido casos importantes.
 
 
+#### Relación con lecturas opcionales
 
+Creo que las otras 3 lecturas eran muy interesantes y tenian fuerte relación con el paper principal.
+"Slope One Predictors" mencionaba claramente una opción frente a los esquemas basados en memoria obteniendo iguales/mejores resultados con menor información, detalle que se menciona en el paper principal, superando esa ineficiencia.
 
+"FunkSVD" fue en lo personal mi favorito, ya que materializaba de forma muy concreta un ejemplo de uso de estas técnicas (SVD), en el contexto del "Netflix Price" mencionado en clases. No me quedaron tan claros los gráficos finales, pero me gustó mucho que fuese un formato "más libre" que el de un paper, ya que permite otra forma de narrar la historia.
+
+"Item-Based Collaborative Filtering Recommendation Algorithms" era bien interesante ya que proponia que se pueden obtener mejores resultados al primero analizar una matriz usuario-item que identifique relaciones entre items y luego basar la recomendación en esos resultados. También se menciona el tema de las complicaciones descritas en el paper principal, como la distribución de datos, carencia de estos y limitaciones de memoria.
