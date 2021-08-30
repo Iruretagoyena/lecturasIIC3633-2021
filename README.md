@@ -1,7 +1,10 @@
 # Repositorio personal para lecturas y actividades prácticas
 
-Alumno Diego Iruretagoyena
-14619164
+- Alumno Diego Iruretagoyena
+- 14619164
+
+
+## Reviews
 
 [Review Semana 1](https://github.com/C0sch0/lecturasIIC3633-2021/blob/03deada2723e9b606320c84a1613e7a7aed8502a/lectura1.md)
 - Schafer, J. B., Frankowski, D., Herlocker, J., & Sen, S. (2007). Collaborative filtering recommender systems. In The adaptive web (pp. 291-324). Springer Berlin Heidelberg. pdf
