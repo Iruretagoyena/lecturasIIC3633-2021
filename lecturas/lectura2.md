@@ -21,6 +21,8 @@ En lo personal esta lectura me gustó un montón. Explica el panorama general de
 
 No me gustá el uso de aristas "hombre vs mujer" para los experimentos. Self-explanatory. Se nota que es del 2009, hoy en día eso es funa directa. Hay otras mil dimensiones para separar personas.
 
-Encontré pobre la sección que explicaba las formas de sobrellevar el "cold start" (página 46).
+Encontré pobre la sección que explicaba las formas de sobrellevar el "cold start" (página 46). Creo que queda muy al aire y solo menciona "buscar fuentes en otros lados". Podría haber dado más ejemplos de vida real, tipo "en este experimento hemos pedido datos de compañia X e Y".
 
 Me gustó que ahondaran en las explicaciones matematicas de la factorización matricial de forma """simple""", o bien explicada al menos. Siento que quedó al aire el por qué menor RMS Error de los factores es mejor, y si se podría usar la conclusión inversa para determinar otras cosas (ej, recomendar cosas distintas a usuarios de perfiles "opuestos").
+
+Los autores también fueron los que ganaron el Netflix Price con el equipo BellKor, explicando que en datasets como el que usaron, es posible utilizar factorizacion matricial obteniendo resultados muchisimo mejores que las tecnicas clasicas de nearest-neighbors. Ahí mencionan algo muy importante, esta técnica además es eficiente en memoria, lo cual es vital para el 99% de los desarrolladores que no tienen/quieren recursos de sobra para gastar en hardware (o en arrendar un servicio cloud). Poder obtener estos resultados de forma eficiente es lo que más me llama la atención. Eso si, me faltó la parte de "Future Work", en donde me hubiese gustado opiniones de los autores sobre en qué lineas se podría jugar para obtener mejores resultados, o poder procesar datasets más grandes (quizás no era preocupación el 2009 pero hoy si).
