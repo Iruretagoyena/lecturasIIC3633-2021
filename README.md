@@ -1,7 +1,7 @@
 # Repositorio personal para lecturas y actividades prácticas
 
-- Alumno Diego Iruretagoyena
-- 14619164
+- Alumno: Diego Iruretagoyena
+- N. Alumno: 14619164
 
 
 ## Reviews
