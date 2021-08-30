@@ -6,7 +6,7 @@ Lecturas leídas:
 - [x] Matrix factorization techniques for recommender systems.
 - [x] Opcional: BPR: Bayesian personalized ranking from implicit feedback.
 
-El resumen se basa en la lectura de MATRIX FACTORIZATION TECHNIQUES FOR RECOMMENDER SYSTEMS y da algunos comentarios en base a comparación con una de las lecturas opcionales.
+El resumen se basa en la lectura de Matrix factorization techniques for recommender systems y da algunos comentarios en base a comparación con una de las lecturas opcionales.
 
 ## Resumen semana 2
 
