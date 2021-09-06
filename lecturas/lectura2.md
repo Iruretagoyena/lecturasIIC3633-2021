@@ -12,7 +12,7 @@ El resumen se basa en la lectura de Matrix factorization techniques for recommen
 
 #### Introducción y Abstract
 
-En esta oportunidad se analiza un artículo de revista publicado por en la IEEE Computer Society y escrito por investigadores de AT&T Labs. El articulo comienza hablando de la relevancia de los RecSys hoy en día, validados por su uso en Netflix y Amazon, compara las estrategias existentes para crear estos sistemas (content filtering y collaborative filtering). Luego de explicar los detalles de ambas tecnicas, ahonda en los dos principales metodos para hacer CF, "neighborhood methods" y "latent factor models", para luego basarsse en los factores latentes para explicar las tecnicas de factorizacion matricial y sus ecuaciones de minnimizacion, stochastic gradient descent y alternating least squares (ALS).
+En esta oportunidad se analiza un artículo de revista publicado por en la IEEE Computer Society y escrito por investigadores de AT&T Labs. El articulo comienza hablando de la relevancia de los RecSys hoy en día, validados por su uso en Netflix y Amazon, compara las estrategias existentes para crear estos sistemas (content filtering y collaborative filtering). Luego de explicar los detalles de ambas tecnicas, ahonda en los dos principales metodos para hacer CF, "neighborhood methods" y "latent factor models", para luego basarsse en los factores latentes para explicar las tecnicas de factorizacion matricial y sus ecuaciones de minimizacion, stochastic gradient descent y alternating least squares (ALS).
 
 #### Comentarios personales y criticas acerca de las lecturas
 
