@@ -11,7 +11,7 @@ https://dl.acm.org/doi/pdf/10.1145/1864708.1864721
 
 ## Resumen semana 3
 
-#### Introducción y Abstract
+#### **Introducción y Abstract**
 El paper de esta semana trata sobre los métodos de evaluación de sistemas recomendadores, desde sus entornos a sus mediciones matemáticas para compararlos.
 Basados en comparación de tres escenarios (offline setting, user studies y large scale online experiments) y distintos algoritmos, se compara cada opción, mencionando las ventajas y desventajas de cada uno, en cada ambiente. 
 
@@ -26,7 +26,7 @@ Luego se procede a hablar de distintas métricas matemáticas que sirven para co
 
 Muy buena lectura. Me costó un poco por su extensión y nivel de detalles, pero ha sido mi favorita hasta ahora dado  que encapsula el espectro de problemas de forma interesante y detallada. Incluso, preferí entregar mi análisis un poco más tarde para poder re-leer la lectura, ya que sentí que la primera vez no entendí el 100% de lo que abarca.
 
-#### Comentarios personales y criticas acerca de las lecturas
+#### **Comentarios personales y criticas acerca de las lecturas**
 
 
 Me gustó al inicio que comentase sobre
