@@ -32,14 +32,11 @@ https://dl.acm.org/doi/pdf/10.1145/1864708.1864721
 - Messina, P., Dominguez, V., Parra, D., Trattner, C., & Soto, A. (2019). Content-based artwork recommendation: integrating painting metadata with neural and manually-engineered visual features. User Modeling and User-Adapted Interaction, 29(2), 251-290.
 
 
-[Review Semana 5](https://github.com/C0sch0/lecturasIIC3633-2021/blob/b688cf01304e26e240812e8c80a5e4ddeed5728b/lecturas/lectura4.md)
-
-Obligatorias (esta semana se puede elegir una de las dos para entregar)*
+[Review Semana 5](https://github.com/C0sch0/lecturasIIC3633-2021/blob/a382537553773e5af0c36104899fddab734626f6/lecturas/lectura5.md)
 
 - Adomavicius, G., Mobasher, B., Ricci, F. and Tuzhilin, A. (2011). Context-Aware Recommender Systems. AI Magazine, 32(3), 67-80.
 
 - Jahrer, M., Töscher, A. and Legenstein, R. (2010). Combining predictions for accurate recommender systems. In Proceedings of the 16th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 693-702. ACM.
-Sugeridas
 
 Sugeridas
 
