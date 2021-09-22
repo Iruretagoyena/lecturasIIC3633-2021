@@ -28,7 +28,7 @@ Este interesantisimo paper trata de la combinación de modelos de filtrado colab
 
 Se presenta una sistematización empírica de distintos 'blends', todos entrenados con el mismo dataset utilizado para el conocido 'Netflix Price' (ya lo hemos visto varias veces en clases por lo que evitaré explicaciones de que es el concurso). Algo entretenido de este sistema presentado es que no ssolo sirve para modelos de filtrado colaborativo, si no que busca ser un sistema para problemas de regresión supervisada en general.
 
-Se comienza setteando el 'common ground', explicando cómo los algoritmos de CF utilizan historial de eventos usuario-item para predecir eventos futuros. Se presentan varios algoritmos conocidos que utiles para el problema (Knn item-item, Knn usuario-usuario, SVD)  y otros no tan frecuente como máquinas Boltzmann y AFM. 
+Se comienza setteando el 'common ground', explicando cómo los algoritmos de CF utilizan historial de eventos usuario-item para predecir eventos futuros. Se presentan varios algoritmos conocidos que utiles para el problema (Knn item-item, Knn usuario-usuario, SVD)  y otros no tan frecuente como máquinas Boltzmann y AFM.
 
 Algo muy interesante (en mi opinión) que hacen es el uso de combinación de modelos por medio de "Residual Training", el cual entrena i modelos basandose en los errores de los modelos anteriores. Personalmente nunca había leído de esa aplicación en algoritmos de CF, por lo que me pareció genial.
 
@@ -62,7 +62,7 @@ Se oficializa la diferencia de la representación de los sistemas tradicionales 
 
 R : Users x Items - Ratings
 
-Mientras que los de contexto, 
+Mientras que los de contexto,
 
 R : Users x Items x Contexts - Ratings
 
@@ -75,7 +75,7 @@ Es muy interesante la formalización de los paradigmas sobre la inclusión del c
 
 Algo que me llamó mucho la atención luego de leer ambas lecturas fue  el hincapié que se le hace al "ensamblaje" de técnicas. Ambos papers aluden a la posibilidad de mezclar distintas herramientas con el fin de obtener mejores resultados.
 
-Esto plantea un nuevo desafío para la persona que busque investigar o enfrentar un problema específico. Ya no solo trata de conocer un amplio set de herramientas, si no que debe manejarlas al punto de saber en qué momento va a ser mejor una, y en qué contexto será mejor la otra. 
+Esto plantea un nuevo desafío para la persona que busque investigar o enfrentar un problema específico. Ya no solo trata de conocer un amplio set de herramientas, si no que debe manejarlas al punto de saber en qué momento va a ser mejor una, y en qué contexto será mejor la otra.
 
 También es positivo, ya que permite expandir las opciones y permitir un approach más rico y completo para solucionar nuestro problema. Si bien ambas lecturas hablan de dominios distintos (uno sobre el contexto y el otro de ensamblaje de modelos), los dos apuntan a esta posibilidad, dando muy buenas referencias y formalizaciones para enfrentar las situaciones del día a día.
 
