@@ -54,3 +54,5 @@ https://arxiv.org/abs/1707.07435
 - Covington, P., Adams, J., & Sargin, E. (2016). Deep neural networks for youtube recommendations. In Proceedings of the 10th ACM conference on recommender systems (pp. 191-198).
 
 - Bansal, T., Belanger, D., & McCallum, A. (2016). Ask the gru: Multi-task learning for deep text recommendations. In Proceedings of the 10th ACM Conference on Recommender Systems (pp. 107-114).
+
+https://dl.acm.org/doi/pdf/10.1145/2959100.2959190

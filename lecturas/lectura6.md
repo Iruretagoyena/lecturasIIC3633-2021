@@ -3,7 +3,13 @@
 #### Tema: Deep learning based recommender system: A survey and new perspectives. ACM Computing Surveys
 #### Entrega: 27 de Septiembre, 8pm
 
+- [x] Zhang, S., Yao, L., Sun, A., & Tay, Y. (2019). Deep learning based recommender system: A survey and new perspectives. ACM Computing Surveys (CSUR)
+
 Link: https://arxiv.org/abs/1707.07435
+
+- [x] Covington, P., Adams, J., & Sargin, E. (2016). Deep neural networks for youtube recommendations. In Proceedings of the 10th ACM conference on recommender systems (pp. 191-198).
+
+https://dl.acm.org/doi/pdf/10.1145/2959100.2959190
 
 ## Resumen semana 6
 
@@ -30,3 +36,5 @@ Como mencioné, me llamó mucho la atención que se resaltara la posibilidad de 
 Tal como habíamos leído en la lectura de la semana pasada, Context-Aware Recommender Systems, en donde se busca integrar al contexto con el fin de obtener mayor riqueza de datos para la resolución del problema de recomendación, esta lectura nos da paso a la idea - "Y si pudiesemos crear una máquina que logre entender todo el contexto del problema, sin nosotros darselo ?".
 
 Creo que el uso de DL y la inclusión del 'contexto' en la resolución de problemas es el mejor paso que hemos dado en la dirección de crear máquinas realmente conscientes, en donde puedan utilizar audio, video, texto y frecuencias para enfrentarse robustamente a ambientes cambiantes y de dificil adaptabilidad. Un buen momento para estar vivos y ver qué nos trae la innovación.
+
+Por ejemplo, en el texto opcional de "Deep neural networks for youtube recommendations", se contruyen Watch Vectors, Search Vectors, información de edad, género y geolocalización que son consumisdas por una red de fully connected Rectified Linear Units para generar recomendaciones al usuario. Encuentro muy interesante todo lo que podemos mezclar. Esta área suele ser bien formal y matemática en su construcción y entendimiento, y creo que esto agrega una componente de ingenio/arte que aporta enormemente a la forma en que vemos e interactuamos con las máquinas.
