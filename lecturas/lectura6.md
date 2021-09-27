@@ -1,6 +1,6 @@
 # Semana 6
 
-#### Tema: Deep learning based recommender system: A survey and new perspectives. ACM Computing Surveys
+#### Tema: Intro. a uso de Deep learning
 #### Entrega: 27 de Septiembre, 8pm
 
 - [x] Zhang, S., Yao, L., Sun, A., & Tay, Y. (2019). Deep learning based recommender system: A survey and new perspectives. ACM Computing Surveys (CSUR)
