@@ -45,7 +45,7 @@ Sugeridas
 - Rendle, S. (2010). Factorization machines. In 2010 IEEE International Conference on Data Mining (pp. 995-1000). IEEE.
 
 
-[Review Semana 6](https://github.com/C0sch0)
+[Review Semana 6](https://github.com/C0sch0/lecturasIIC3633-2021/blob/9e5ac71d5e7a0365b6441b87a5a1f67b581d95f1/lecturas/lectura6.md)
 
 - Hasta la sección 3.4 (incluyendo 3.4): Zhang, S., Yao, L., Sun, A., & Tay, Y. (2019). Deep learning based recommender system: A survey and new perspectives. ACM Computing Surveys (CSUR), 52(1), 1-38.
 Sugeridas
