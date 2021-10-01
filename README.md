@@ -56,3 +56,16 @@ https://arxiv.org/abs/1707.07435
 - Bansal, T., Belanger, D., & McCallum, A. (2016). Ask the gru: Multi-task learning for deep text recommendations. In Proceedings of the 10th ACM Conference on Recommender Systems (pp. 107-114).
 
 https://dl.acm.org/doi/pdf/10.1145/2959100.2959190
+
+
+[Review Semana 7](https://github.com/C0sch0)
+
+Obligatoria leída
+
+- He, C., Parra, D., & Verbert, K. (2016). Interactive recommender systems: A survey of the state of the art and future research challenges and opportunities. Expert Systems with Applications, 56, 9-27.
+
+
+Opcional leída
+
+- Andjelkovic, I., Parra, D., & O’Donovan, J. (2019). Moodplay: Interactive music recommendation based on Artists’ mood similarity. International Journal of Human-Computer Studies, 121, 142-159.
+
