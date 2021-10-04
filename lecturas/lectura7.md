@@ -37,7 +37,7 @@ Lectura opcionl leída
 
 De todas las lecturas opcionales que leí, esta fue la que más correlación tenía con la principal, calzaba como anillo al dedo. Esta lectura se centra de igual manera en la estructura holistica de los sistemas recomendadores y su objetivo. Se habla del procesos y de sus tangentes de transparencia, explicación de resultados, control y experiencia de usuario. Me gustaron un montón estas lecturas ya que es típico leer miles de papers que buscan combinar métodos de forma distinta al estado del arte, con el fin de mejorar un 0.000001 el resultado. Estos no. Estos papers tienen una mirada desde arriba sobre que se está haciendo y lo presentan de una forma atractiva.
 
-Ahora bien, este paper opcional iba un paso más allá. Presentaba una visualización interactiva que soporta la operación de recomendación. En unn mapa que denota "sentimientos" y artistas musicales en un espacio 2-D. 
+Ahora bien, este paper opcional iba un paso más allá. Presentaba una visualización interactiva que soporta la operación de recomendación. En un mapa que denota "sentimientos" y artistas musicales en un espacio 2-D. 
 
 Algo interesante me pareció que fue la presentación de resultados empíricos acerca de la cantidad de información desplegada por esta herramienta. Encontré que era algo clave, ya que puede ser muy factible que nuestra visualización agregue mucha información muy relevante, pero si saturamos al usuario, tendremos experiencia negativa y nadie usará la herramienta. Es por esto que me pareció un factor clave la integración de esta arista.
 
