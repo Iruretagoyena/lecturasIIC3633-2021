@@ -58,7 +58,7 @@ https://arxiv.org/abs/1707.07435
 https://dl.acm.org/doi/pdf/10.1145/2959100.2959190
 
 
-[Review Semana 7](https://github.com/C0sch0)
+[Review Semana 7](https://github.com/C0sch0/lecturasIIC3633-2021/blob/97cff163836afb6178ce02929c3c01ea1cf88c5a/lecturas/lectura7.md)
 
 Obligatoria leída
 
